@@ -18,50 +18,48 @@ Leisure travel across Europe, spring through autumn (no winter use for this case
 ### Use Case 3 — Mobile Office while Visiting Friends across Germany
 Visiting friends in different parts of Germany for 1 to 3 days, with the van as a fallback workspace when needed. Full remote workdays (~8 hours), with frequent online meetings requiring active speaking. The van needs to be a viable place to work from anywhere.
 
+### Use Case 4 — Daily Driver in Berlin
+Occasional short trips around Berlin — supermarket runs, hardware store (Baumarkt), errands. This happens only 1–2 times per month; the van is not a primary daily car but needs to be usable in that role without major friction.
+
 ### Use Case Priorities
 
 | Use Case | Description | Weight |
 |----------|-------------|--------|
-| UC1 | Work Commute (Berlin ↔ Frankfurt) | 65 / 100 |
-| UC2 | European Vacations with girlfriend | 23 / 100 |
-| UC3 | Mobile Office across Germany | 12 / 100 |
+| UC1 | Work Commute (Berlin ↔ Frankfurt) | 58 / 100 |
+| UC2 | European Vacations with girlfriend | 21 / 100 |
+| UC3 | Mobile Office across Germany | 11 / 100 |
+| UC4 | Daily Driver in Berlin | 10 / 100 |
 
 ### Key Implications
 
 Key implications for the vehicle choice:
-- Comfortable for long highway drives (use case 1) and short leisure driving (use case 2)
-- Must sleep and function well for 2 people during vacations
-- Needs to be well insulated for winter use (use cases 1 and 3)
-- Off-grid capability (solar, water, power) relevant for vacation and mobile office use
-- Year-round reliability required
+- Comfortable for long highway drives (use case 1) and short urban driving (use cases 2, 4)
+- Must physically accommodate 2 people sleeping and living (dimensions, fixed high roof)
+- Year-round reliability required — diesel, auto, Euro 6, low mileage, recent registration
+- Must be manageable in urban traffic and fit in standard street parking spots
 
 ---
 
 ## Requirements & Priorities
 
-| Priority | Requirement | Driven by |
-|----------|-------------|-----------|
-| Must have | Reliable engine for year-round highway use | UC1 |
-| Must have | Comfortable for long highway drives (~550 km) | UC1 |
-| Must have | Good insulation potential for winter use | UC1 |
-| Must have | Diesel engine | UC1 |
-| Must have | Automatic gearbox | UC1 |
-| Must have | Euro 6 emission standard (Frankfurt Umweltzone compliance) | UC1 |
-| Must have | Mileage at time of purchase ≤ 50,000 km | UC1 |
-| Must have | First registration ≥ 2019 (avoid calendar-age degradation despite low mileage) | UC1 |
-| Must have | Sufficient sleeping and living space for 2 people | UC1, UC2 |
-| Must have | Interior cargo length ≥ 270 cm | UC1, UC2 |
-| Must have | Fixed high roof — no pop-top; required for winter insulation integrity and zero-setup arrival | UC1, UC2 |
-| Must have | Base vehicle purchase price ≤ €25,000 | all |
-| Must have | Good value for money — no premium/luxury models; reliability and practicality over brand prestige | all |
-| Must have | Payload capacity ≥ 1,000 kg (conversion + 2 people + gear adds 500–800 kg) | all |
-| Should have | Low running costs: fuel economy, affordable spare parts, common service intervals | UC1 |
-| Should have | Power system capable of running a laptop for a full workday | UC1, UC3 |
-| Should have | Off-grid capability (solar, water, battery) | UC2, UC3 |
-| Should have | No side/rear cargo windows — prefer blank panel sides to allow custom window placement during conversion | all |
-| Nice to have | Discreet appearance for occasional wild / urban overnight parking | UC2, UC3 |
-| Nice to have | Mobile internet setup (antenna / router) | UC3 |
-| Nice to have | Acoustic insulation for calls | UC3 |
+| Priority     | Requirement                                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------------|
+| Must have    | Reliable engine for year-round highway use                                                          |
+| Must have    | Comfortable for long highway drives (~550 km)                                                       |
+| Must have    | Diesel engine                                                                                       |
+| Must have    | Automatic gearbox                                                                                   |
+| Must have    | Euro 6 emission standard (Frankfurt Umweltzone compliance)                                          |
+| Must have    | Mileage at time of purchase ≤ 50,000 km                                                             |
+| Must have    | First registration ≥ 2019 (avoid calendar-age degradation despite low mileage)                      |
+| Must have    | Interior cargo length ≥ 270 cm                                                                      |
+| Must have    | Base vehicle purchase price ≤ €25,000                                                               |
+| Must have    | Good value for money — no premium/luxury models; reliability and practicality over brand prestige   |
+| Must have    | Payload capacity ≥ 1,000 kg (conversion + 2 people + gear adds 500–800 kg)                         |
+| Should have  | Low running costs: fuel economy, affordable spare parts, common service intervals                   |
+| Should have  | Overall vehicle length ≤ 6.0 m — avoids special parking permit requirements in some Berlin districts and keeps daily urban use manageable |
+| Should have  | No side/rear cargo windows — prefer blank panel sides to allow custom window placement during conversion |
+| Nice to have | Discreet appearance for occasional wild / urban overnight parking                                   |
+| Nice to have | Capable of light off-road (gravel/dirt access roads to campsites) — 2WD sufficient; no dedicated 4WD required |
 
 ---
 
