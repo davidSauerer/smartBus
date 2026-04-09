@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE — JetBrains
+.idea/
+*.iml
+
+# IDE — VS Code
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Node (if any tooling is added later)
+node_modules/
