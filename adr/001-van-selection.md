@@ -7,16 +7,26 @@
 
 ## Context
 
-### Use Case 1 — Work Commute (Berlin ↔ Frankfurt) · **65 / 100 pts**
+### Use Case 1 — Work Commute (Berlin ↔ Frankfurt)
 Monthly commute after work, ~550 km one way. The vehicle serves as a mobile home in Frankfurt for 2 to 5 days per stay. This happens year-round including winter. Primarily staying at campsites, occasionally on wild or urban spots.
 
 When parked at home base in Berlin, the vehicle will use street parking or an open-air rental spot — no underground or covered parking required, so vehicle height is not a constraint. Note: some Berlin districts require a special parking permit for overnight stays of visibly converted or oversized vehicles (>6m length); the applicable rules should be checked for the specific district.
 
-### Use Case 2 — European Vacations (with girlfriend) · **23 / 100 pts**
+### Use Case 2 — European Vacations (with girlfriend)
 Leisure travel across Europe, spring through autumn (no winter use for this case). Relaxed pace — max ~3 hours of driving per day. Two people sleeping and living in the van. Mainly campsites, but off-grid stays also planned.
 
-### Use Case 3 — Mobile Office while Visiting Friends across Germany · **12 / 100 pts**
+### Use Case 3 — Mobile Office while Visiting Friends across Germany
 Visiting friends in different parts of Germany for 1 to 3 days, with the van as a fallback workspace when needed. Full remote workdays (~8 hours), with frequent online meetings requiring active speaking. The van needs to be a viable place to work from anywhere.
+
+### Use Case Priorities
+
+| Use Case | Description | Weight |
+|----------|-------------|--------|
+| UC1 | Work Commute (Berlin ↔ Frankfurt) | 65 / 100 |
+| UC2 | European Vacations with girlfriend | 23 / 100 |
+| UC3 | Mobile Office across Germany | 12 / 100 |
+
+### Key Implications
 
 Key implications for the vehicle choice:
 - Comfortable for long highway drives (use case 1) and short leisure driving (use case 2)
